@@ -1,41 +1,40 @@
-name: EvolveRob
-favicon: null
-layout_spectrum: 0.55688
-typography_spectrum: 0.7739
+typography_spectrum: 0.628557774471119
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Evolve Rob  - The Evolution of One Man
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.5927015363704413
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: UA-73087759-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
-  brandColors:
-    - '#a0c2f2'
-    - '#565155'
-    - '#b19870'
-    - '#272526'
-    - '#f4daa1'
-  brandStrength: 0.7562182191759348
-  lightness: 0.4065688904374838
   saturation: 0.1935755331069231
+  brandStrength: 0.7562182191759348
   rhythmicContrast: 0.2727577434852719
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  lightness: 0.4065688904374838
 purpose: []
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: EvolveRob
