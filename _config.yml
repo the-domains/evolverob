@@ -1,7 +1,7 @@
 name: EvolveRob
 favicon: null
-layout_spectrum: 0.5927015363704413
-typography_spectrum: 0.628557774471119
+layout_spectrum: 0.55688
+typography_spectrum: 0.7739
 collections:
   - index:
       path: /
