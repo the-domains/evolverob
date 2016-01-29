@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Evolve Rob  - The Evolution of One Man
 cta:
   domain: null
   bucket: null
