@@ -1,7 +1,7 @@
 name: EvolveRob
 favicon: null
-layout_spectrum: 0.5927015363704413
-typography_spectrum: 0.628557774471119
+layout_spectrum: 0.598
+typography_spectrum: 0.75571
 collections:
   - index:
       path: /
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#a5c6ef'
+    - '#565455'
+    - '#af986f'
+    - '#17140f'
+    - '#fef2c0'
   brandStrength: 0.7562182191759348
   lightness: 0.4065688904374838
   saturation: 0.1935755331069231
