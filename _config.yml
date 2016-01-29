@@ -1,28 +1,40 @@
-name: EvolveRob
-favicon: null
-layout_spectrum: 0.5927015363704413
-typography_spectrum: 0.628557774471119
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5927015363704413
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.1935755331069231
+  brandStrength: 0.7562182191759348
+  rhythmicContrast: 0.2727577434852719
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7562182191759348
   lightness: 0.4065688904374838
-  saturation: 0.1935755331069231
-  rhythmicContrast: 0.27275774348527193
 purpose: []
+favicon: null
+name: EvolveRob
+typography_spectrum: 0.628557774471119
