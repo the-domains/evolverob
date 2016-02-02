@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The evolution of a man as he lives his life]]></title>
+        <description><![CDATA[The evolution of a man as he lives his life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 17:26:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Favorite Photo's]]></title>
+            <description><![CDATA[<article><h1>Favorite Photo's</h1><p>Place's I've seen,  photo's I've taken</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b021f0-daa3-4b06-9e8d-e013d4597d68.JPG"></article>]]></description>
+            <link>undefinedfavorite-photos/index.html</link>
+            <guid isPermaLink="false">0d6ad42a-122d-4aff-8fd2-ac7104ecb43f</guid>
+            <pubDate>Tue, 02 Feb 2016 17:24:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
