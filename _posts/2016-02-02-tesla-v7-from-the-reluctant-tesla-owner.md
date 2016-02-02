@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-02T21:34:13.001Z'
-dateModified: '2016-02-02T21:34:02.074Z'
+description: An article I wrote
+datePublished: '2016-02-02T22:00:27.068Z'
+dateModified: '2016-02-02T22:00:22.516Z'
 title: Tesla v7 from the Reluctant Tesla Owner
 author: []
+sourcePath: _posts/2016-02-02-tesla-v7-from-the-reluctant-tesla-owner.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-tesla-v7-from-the-reluctant-tesla-owner.md
-published: true
 url: tesla-v7-from-the-reluctant-tesla-owner/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfac6eba-49ab-4158-b997-12bc2971b762.JPG)
