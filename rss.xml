@@ -4,11 +4,18 @@
         <description><![CDATA[The evolution of a man as he lives his life]]></description>
         <link>http://evolverob.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 21:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 21:27:20 GMT</lastBuildDate>
         <atom:link href="http://evolverob.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Article Title]]></title>
+            <description><![CDATA[<article><h1>Article Title</h1><p>I want to post an article and see how it appears in the website.</p></article>]]></description>
+            <link>http://evolverob.com/article-title/index.html</link>
+            <guid isPermaLink="false">4ce7fa11-f469-4cdd-9f1e-8029d816705d</guid>
+            <pubDate>Tue, 02 Feb 2016 21:27:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Favorite Photo's]]></title>
-            <description><![CDATA[<article><h1>Favorite Photo's</h1><p>This is the verbiage of the post.  I want to see how this shows up in the arcle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cfed539ead3ad8c1f91c808cdd6e02501d8370b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Favorite Photo's</h1><p>This is the verbiage of the post.  I want to see how this shows up in the arcle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ee56d236c3aa81996fed8a57bca95136e04f113.jpg"></article>]]></description>
             <link>http://evolverob.com/favorite-photos/index.html</link>
             <guid isPermaLink="false">0d6ad42a-122d-4aff-8fd2-ac7104ecb43f</guid>
             <pubDate>Tue, 02 Feb 2016 21:25:14 GMT</pubDate>
