@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: The evolution of man as he lives his life
+title: The evolution of a man as he lives his life
 cta:
   domain: null
   bucket: null
